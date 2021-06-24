@@ -9,9 +9,10 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Hitendra Kumar"]
   spec.email         = ["hitendra1632@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = 'Zoom API'
+  spec.description   = 'Make API calls to Zoom with ease'
+  spec.homepage      = 'https://github.com/Hitendra1632/Zoom'
+  spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
